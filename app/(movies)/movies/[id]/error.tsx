@@ -1,5 +1,9 @@
 "use client";
 
 export default function ErrorOMG() {
-  return <h1>something broke...</h1>
+  return (
+    <div>
+      <h1>something broke...</h1>
+    </div>
+  );
 }
